@@ -1,0 +1,5 @@
+Ingresar a Forticlient
+
+Ingresar a escritorio remoto con esa misma ip 172.17.100.143
+usuario: Sistran\jagudelo
+clave:
